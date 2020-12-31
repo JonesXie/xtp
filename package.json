@@ -1,0 +1,17 @@
+{
+  "name": "xtp",
+  "version": "1.0.0",
+  "description": "快速创建前端框架模板",
+  "main": "index.js",
+  "bin": {
+    "xtp": "index.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.1",
+    "download-git-repo": "^3.0.2"
+  }
+}
